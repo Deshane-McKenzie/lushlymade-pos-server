@@ -1,0 +1,24 @@
+[{
+    "category": "BATH BOMB",
+    "name": "LORD OF MISRULE",
+    "price": 9,
+    "image": "https://www.lushusa.com/dw/image/v2/BDMQ_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dwed2e2d2e/images/product/00685_1.jpg?sw=400&sh=400"
+},
+{
+    "category": "BUBBLE BAR",
+    "name": "BUBBLE LUGOSI",
+    "price": 11,
+    "image": "https://www.lushusa.com/dw/image/v2/BDMQ_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dwab9a6795/images/product/00261_1.jpg?sw=400&sh=400"
+
+}, {
+    "category": "EPSOM SALT CUBE",
+    "name": "DEEP SLEEP",
+    "price": 7.50,
+    "image": "https://www.lushusa.com/dw/image/v2/BDMQ_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dwcce45961/images/product/00453_1.jpg?sw=400&sh=400"
+},
+{
+    "category": "SELF-PRESERVING BODY CREAM",
+    "name": "BIOMIC",
+    "price": 18, 
+    "image": "https://www.lushusa.com/dw/image/v2/BDMQ_PRD/on/demandware.static/-/Sites-lushcosmetics-export/default/dw05523182/images/product/61428_1.jpg?sw=400&sh=400"
+}]
