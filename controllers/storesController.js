@@ -1,10 +1,10 @@
 const fs=require('fs')
 
 exports.index=(req, res)=>{
-    fs.readFile('./products.json', 'utf-8',(err,data)=>{
+    fs.readFile('./stores.json', 'utf-8',(err,data)=>{
         if(err){
             console.log(err)
-            return res.send("error loading products")
+            return res.send("error loading stores")
         }
         data=JSON.parse(data)
         return res.json(data)

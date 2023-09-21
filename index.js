@@ -14,6 +14,8 @@ app.use(express.static('public'));
 
 const productRoute=require("./routes/productRoute")
 app.use("/", productRoute)
+const storesRoute=require("./routes/storesRoute")
+app.use("/", storesRoute)
 app.listen(PORT, ()=>{
     console.log(`listening at port ${PORT}`)
 })
