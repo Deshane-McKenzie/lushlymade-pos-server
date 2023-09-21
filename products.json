@@ -1,0 +1,24 @@
+[{
+    "category": "BATH BOMB",
+    "name": "LORD OF MISRULE",
+    "price": 9,
+    "image": "lordOfMisrule.png"
+},
+{
+    "category": "BUBBLE BAR",
+    "name": "BUBBLE LUGOSI",
+    "price": 11,
+    "image": "bubble-lugosi.png"
+
+}, {
+    "category": "EPSOM SALT CUBE",
+    "name": "DEEP SLEEP",
+    "price": 7.50,
+    "image": "deep-sleep.png"
+},
+{
+    "category": "BODY CREAM",
+    "name": "BIOMIC",
+    "price": 18, 
+    "image": "biomic.png"
+}]
